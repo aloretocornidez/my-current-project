@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[]) {
 
-  std::string temp = "Hello World";
+  std::string temp = "Developer changes";
 
   std::cout << temp << std::endl;
 
